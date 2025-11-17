@@ -362,4 +362,5 @@ if st.button("Analyze Resume"):
                 pass
 
 st.markdown("---")
-st.caption("⚙️ AI Based ATS Resume Scoring @Skill Bridge")
+st.caption("⚙️ AI Based ATS Resume Scoring @Talent Bridge")
+
